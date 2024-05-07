@@ -1,3 +1,7 @@
+##Olá, bem vindo ao meu repositório!
+
+#...
+
 <div align="center">
   <a href="https://github.com/joze08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joze08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

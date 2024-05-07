@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu repositório!
 
-# Me chamo José, faço bacharelado em Ciência da Computação e estudo principalmente desenvolvimento back-end e análise de dados.
+#### Me chamo José, faço bacharelado em Ciência da Computação e estudo principalmente desenvolvimento back-end e análise de dados.
 
 <div align="center">
   <a href="https://github.com/joze08">
